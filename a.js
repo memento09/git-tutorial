@@ -1,2 +1,2 @@
-console.log('BBB');
+console.log('b');
 console.log('feature-A');
